@@ -80,4 +80,4 @@
 /login?to=http://cappriciosec.com
 /1/_https@cappriciosec.com
 /redirect?targeturl=https://cappriciosec.com
-///https://cappriciosec.com/%2f%2e%2e
+
