@@ -81,3 +81,5 @@
 /redirect?targeturl=https://cappriciosec.com
 /remotereporter/load_logfiles.php?server=127.0.0.1&url=https://cappriciosec.com
 /tiki-featured_link.php?type=f&url=https://cappriciosec.com
+/cs.html?url=http://cappriciosec.com
+/awstats/awredir.pl?url=cappriciosec.com
