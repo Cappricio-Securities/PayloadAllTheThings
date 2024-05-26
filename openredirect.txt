@@ -84,3 +84,4 @@
 /cs.html?url=http://cappriciosec.com
 /awstats/awredir.pl?url=cappriciosec.com
 /wp-content/plugins/webp-converter-for-media/includes/passthru.php?src=https://cappriciosec.com/#CVE-2021-25074
+/sap/public/bc/icf/logoff?redirecturl=https://cappriciosec.com/#sap-redirect
