@@ -1,0 +1,4 @@
+.bash_history
+.ksh_history
+.sh_history
+.zsh_history
