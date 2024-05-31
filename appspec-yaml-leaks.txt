@@ -1,2 +1,0 @@
-appspec.yml
-appspec.yaml
