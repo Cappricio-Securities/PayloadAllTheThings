@@ -80,7 +80,7 @@
 /1/_https@cappriciosec.com
 /redirect?targeturl=https://cappriciosec.com
 /remotereporter/load_logfiles.php?server=127.0.0.1&url=https://cappriciosec.com
-/tiki-featured_link.php?type=f&url=https://cappriciosec.com
+/tiki-featured_link.php?type=f&url=https://cappriciosec.com#CVE-2012-5321
 /cs.html?url=http://cappriciosec.com/#CVE-2009-0347
 /awstats/awredir.pl?url=cappriciosec.com
 /wp-content/plugins/webp-converter-for-media/includes/passthru.php?src=https://cappriciosec.com/#CVE-2021-25074
